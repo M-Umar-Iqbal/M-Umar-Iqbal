@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" /> Hi, I'm Umar Iqbal</h1>
 <h3 align="center">Sr. Fullstack Developer</h3>
 
-<a href="https://github.com/truethari"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue" alt=""/></a>
+<a href="https://github.com/M-Umar-Iqbal"><img src="https://komarev.com/ghpvc/?username=M-Umar-Iqbal&style=flat-square&color=blue" alt=""/></a>
 
 ## 🚀 About Me
 

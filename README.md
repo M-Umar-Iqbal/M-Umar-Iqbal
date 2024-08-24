@@ -36,3 +36,6 @@
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api?username=M-Umar-Iqbal&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="M-Umar-Iqbal" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Umar-Iqbal&theme=dark&locale=en" alt="M-Umar-Iqbal" />

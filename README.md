@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🤷🏻‍♂️ I'm Umar, a Sr. Fullstack **Developer** (specializing in **NextJS**, **ReactJS**, **ExpressJS** & **NodeJS** Applications) and a **Freelancer**.
+🤷🏻‍♂️ I'm Umar, Sr. Fullstack **Developer** (specializing in **NextJS**, **ReactJS**, **ExpressJS** & **NodeJS** Applications) and a **Freelancer**.
 
 ## 🛠️ Skilled in
 

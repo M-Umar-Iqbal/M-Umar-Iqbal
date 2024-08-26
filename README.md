@@ -1,7 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" /> Hi, I'm Umar Iqbal</h1>
-<h3 align="center">Sr. Fullstack Developer</h3>
+<h3 align="center">A passionate software engineer on a journey to craft seamless digital experiences.</h3>
 
 <a href="https://github.com/M-Umar-Iqbal"><img src="https://komarev.com/ghpvc/?username=M-Umar-Iqbal&style=flat-square&color=blue" alt=""/></a>
 
@@ -36,6 +34,16 @@
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+
+## 🚀 Contact Me
+Feel free to reach out if you have any questions or would like to collaborate!
+
+- **Email**: [email.umariqbal@gmail.com](mailto:email.umariqbal@gmail.com)
+- **LinkedIn**: [Umar Iqbal](https://www.linkedin.com/in/mumariqbal)
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+## 📊 Github Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=M-Umar-Iqbal&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="M-Umar-Iqbal" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Umar-Iqbal&theme=dark&locale=en" alt="M-Umar-Iqbal" />

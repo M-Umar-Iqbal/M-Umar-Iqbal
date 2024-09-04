@@ -43,7 +43,7 @@ Feel free to reach out if you have any questions or would like to collaborate!
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-## 📊 Github Statistics
+<!-- ## 📊 Github Statistics -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Umar-Iqbal&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="M-Umar-Iqbal" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Umar-Iqbal&theme=dark&locale=en" alt="M-Umar-Iqbal" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Umar-Iqbal&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="M-Umar-Iqbal" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Umar-Iqbal&theme=dark&locale=en" alt="M-Umar-Iqbal" /> -->
